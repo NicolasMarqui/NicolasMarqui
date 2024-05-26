@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Software Engineer specializing in React. With a knack for crafting intuitive and dynamic web applications, I thrive on turning complex problems into elegant solutions.<br><br>When I'm not coding, you'll find me exploring new destinations and immersing myself in different cultures. Traveling fuels my creativity and brings fresh perspectives to my work. I'm also an avid learner, constantly expanding my knowledge and skillset to stay at the forefront of technology.<br><br>Feel free to check out my repositories and projects. Let's connect and collaborate on exciting ventures!</p>
+<p align="left">A passionate Software Engineer with a love for React and traveling the world.<br><br>When I'm not coding, you'll find me exploring new destinations and immersing myself in different cultures. Traveling fuels my creativity and brings fresh perspectives to my work. I'm also an avid learner, constantly expanding my knowledge and skillset to stay at the forefront of technology.<br><br>Feel free to check out my repositories and projects. Let's connect!</p>
 
 ###
 
